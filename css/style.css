@@ -63,7 +63,7 @@ header {
 .hero {
     background-color: #2d3f50;
     color: #fff;
-    background-image: url("/images/img1.jpg");
+    background-image: url("../images/img1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 300px;
@@ -165,7 +165,7 @@ h1 {
 .info {
     padding: 0px 15px 15px 20px;
     background-color: #e9e9e9;
-    background-image: url("/images/texture1.jpg");
+    background-image: url("../images/texture1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 5px;
