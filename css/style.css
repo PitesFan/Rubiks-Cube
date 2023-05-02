@@ -136,10 +136,13 @@ h1 {
 }
 
 .h3 {
-    padding-top: 90px;
-    padding-left: 7%;
     font-size: 35px;
     display: inline-block;
+    border-bottom: 4px solid rgb(84, 252, 154);
+    margin-bottom: 5px;
+    margin-top: 80px;
+    display: inline-block;
+    margin-left: 50px;
 }
 
 .titlu1 {
