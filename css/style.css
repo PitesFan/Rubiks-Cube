@@ -15,6 +15,12 @@
 
 body {
     font-family: sans-serif;
+    background-color: #2d3f50;
+    color: #fff;
+    background-image: url("../images/img1.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 header {
@@ -58,15 +64,6 @@ header {
 
 .nav-toggle {
     display: none;
-}
-
-body {
-    background-color: #2d3f50;
-    color: #fff;
-    background-image: url("../images/img1.jpg");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
 }
 
 .container {
